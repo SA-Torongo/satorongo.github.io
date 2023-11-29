@@ -16,19 +16,21 @@ LUC					: C
 NP 					: A+
 CLASS SKILLS:
 Magic Resistance	: A
-Riding				: C
+True Name Discernment: B
 PERSONAL SKILLS:
 Mana Burst (Flames)	: A
 Shinigami			: A+
 Master of Hakuda	: B+
 Kido				: B+
 NOBLE PHANTASM:
-Riyujin Jakka - All Things in the Universe, Turn to Ashes: A
+Riyujin Jakka - All Things in the Universe, Turn to Ashes: C(A)
+In its sealed form, Riyujin Jakka is a plain  katana with a purple cloth handle. It's slashes directly affect the souls of its enemines and purifies corrupted spirits. The sword is nurtured from an asauchi, a blade that is created by the Sword God Oh-Etsu Nimaya through unknown means. Due to Oh-Etsu's status as a member of Squad Zero and he himself being an Oken, his creations are imbued with a small portion of divinity. This blade cannot be Traced or copied. If used by others who are not its true user, it will be greatly weakened.
+When Ruler unleashes his shikai, the rank of Riyujin Jakka jumps to A. In this form, an endless torrent of flames are generated from it.
 Zanka no Tachi - Blade of Embers: A+
 
 
 
 
 
-
-Genryūsai Shigekuni Yamamoto became aware.
+Hell on Earth (One Shot)
+Genryūsai Shigekuni Yamamoto became aware. Immediately, his mind was assulted with knowledge. The thing that is known as the Greater Grail put in his mind all the relavent information. For a moment, Yamamoto stood on the 
