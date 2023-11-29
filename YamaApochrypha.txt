@@ -1,0 +1,34 @@
+Class				: Ruler
+True Name			: Genryūsai Shigekuni Yamamoto (Founder of the Gotei)
+Type				: Heroic Spirit
+Origin				: ???
+Region				: ???
+Alignment			: Lawful Good
+Hidden Attribute	: Heaven
+Armament			: Sword
+Summoning Catalyst	: ???
+PARAMETER:
+STR					: A
+END					: A
+AGI					: A
+MAN					: A
+LUC					: C
+NP 					: A+
+CLASS SKILLS:
+Magic Resistance	: A
+Riding				: C
+PERSONAL SKILLS:
+Mana Burst (Flames)	: A
+Shinigami			: A+
+Master of Hakuda	: B+
+Kido				: B+
+NOBLE PHANTASM:
+Riyujin Jakka - All Things in the Universe, Turn to Ashes: A
+Zanka no Tachi - Blade of Embers: A+
+
+
+
+
+
+
+Genryūsai Shigekuni Yamamoto became aware.
